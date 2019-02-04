@@ -1,0 +1,76 @@
+.w3-animate-fading{animation:fading 10s infinite}@keyframes fading{0%{opacity:0}50%{opacity:1}100%{opacity:0}}
+.myslides
+{
+      display:none;
+}
+
+.image
+{
+      float: left;
+      margin: 50px;
+      box-shadow:2px 2px 5px 5px;
+      color:darkorchid;
+}
+.image1
+{
+     float: left;
+     margin: 50px;
+     box-shadow:2px 2px 5px 5px;
+     color:darkorchid;
+}
+.image2
+{
+    float: left;
+    margin: 50px;
+    box-shadow:2px 2px 5px 5px;
+    color:darkorchid;
+}
+.image3
+{
+    float: left;
+    margin: 50px;
+    box-shadow:2px 2px 5px 5px;
+    color:darkorchid;
+}
+.image4
+{
+    float: left;
+    margin: 50px;
+    box-shadow:2px 2px 5px 5px;
+    color:darkorchid;
+}
+.image5
+{
+    float: left;
+    margin: 50px;
+    box-shadow:2px 2px 5px 5px;
+    color:darkorchid;
+}
+.image6
+{
+    float: left;
+    margin: 50px;
+    box-shadow:2px 2px 5px 5px;
+    color:darkorchid;
+}
+.image7
+{
+    float: left;
+    margin: 50px;
+    box-shadow:2px 2px 5px 5px;
+    color:darkorchid;
+}
+.image8
+{
+    float: left;
+    margin: 50px;
+    box-shadow:2px 2px 5px 5px;
+    color:darkorchid;
+}
+.shopdetail{
+}
+.top
+{
+     background-color:darkorchid;
+     height: 500px; 
+}
